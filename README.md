@@ -6,7 +6,7 @@ Since 1995, I have focused on modern technologies and software development tools
 
 I am also a Microsoft Certified Trainer (MCT) for over 25 years, and I have been recognized as a Microsoft Most Valuable Professional (MVP) in Data Platform since 2010. Additionally, I am honored to be in the Data Expert 40 Powerlist 2024 by Boussias. 
 
-I am the co-founder and visionary behind XLYTiCA, a company dedicated to Data & AI solutions. Also I am the founder of sqlschool.gr a greek community about Microsoft Data Platform.
+I am the co-founder and visionary behind [XLYTiCA](https://xlytica.com), a company dedicated to Data & AI solutions. Also I am the founder of [sqlschool.gr](https://sqlschool.gr), a greek community about Microsoft Data Platform.
 
 
 <!--
